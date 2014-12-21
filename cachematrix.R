@@ -1,4 +1,5 @@
 ## This file defines 2 functions to generate and cache Inverse of Matrix.
+##  Nikhil W
 ##
 ## makeCacheMatrix --- Creates a List Object of Matrix and it's Inverse.
 ## cacheSolve --- Based on the input Matrix object, checks if Inverse exists. 
